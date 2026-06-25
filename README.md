@@ -3,8 +3,9 @@
 ## Model Specifications
 * **Paper Name:** Modelling bike-sharing service adoption in urban areas: a case study of Vienna
 * **Year:** 2024
-* **Authors:** Hanbit Lee
+* **Authors:** Hanbit Lee, Leila Niamir
 * **Calibration Area:** Vienna
+* **Code DOI:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20847272-blue)](https://doi.org/10.5281/zenodo.20847272)
 
 ## Technical Stack & Environment
 * **Language:** Python 3.9
